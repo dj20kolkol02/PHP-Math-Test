@@ -9,10 +9,7 @@ Multi-Level Curriculum**: The application is divided into three primary levels: 
 
 
 Structured 5-Step Learning Path:
-1. 
-Theory: Detailed descriptions and formulas for each shape.
-
-
+1. Theory: Detailed descriptions and formulas for each shape.
 2. User Input: Interactive forms for users to enter their own dimensions.
 3. Automatic Calculation: Real-time processing of Area and Volume based on user data.
 4. Practice Challenge: Randomly generated dimensions for the user to solve.
@@ -59,23 +56,19 @@ Security: Implementation of `password_verify()` for secure authentication and Pr
 
 
 
-## 🔧 Installation
+🔧 Installation
 
-1. **Clone the repository** to your local server environment (e.g., XAMPP or WAMP).
-2. **Import the database**: Execute the `php.sql` file in your MySQL manager (e.g., phpMyAdmin).
-3. 
-**Configure Connection**: Update `database.php` with your local database credentials.
+1. Clone the repository** to your local server environment (e.g., XAMPP or WAMP).
+2. Import the database**: Execute the `php.sql` file in your MySQL manager (e.g., phpMyAdmin).
+3. Configure Connection: Update database.php with your local database credentials.
+4. Launch: Access the project via localhost in your web browser.
 
 
-4. **Launch**: Access the project via `localhost` in your web browser.
+4. Launch: Access the project via `localhost` in your web browser.
 
-### 🔑 Test Credentials
+🔑 Test Credentials
 
 The system includes pre-configured accounts for testing purposes:
 
-* **Standard User**: `natan` / `natan123`
-* **Admin**: `admin` / `admin`
-
----
-
-Would you like me to generate a specific **license file (MIT/GNU)** or a **contribution guide** to accompany this README?
+Standard User: `natan` / `natan123`
+Admin: `admin` / `admin`
